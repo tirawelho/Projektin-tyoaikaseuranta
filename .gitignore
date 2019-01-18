@@ -1,0 +1,4 @@
+(venv) ~/Projektin-tyoaikaseuranta$ echo "venv" > .gitignore
+(venv) ~/Projektin-tyoaikaseuranta$ cat .gitignore
+venv
+(venv) ~/Projektin-tyoaikaseuranta$
